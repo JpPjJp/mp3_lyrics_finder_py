@@ -1,5 +1,5 @@
 # mp3_genius_lyrics_finder_py
-Given a directory, this script scrapes lyrics from Genius.com and creates a .txt file containing the lyrics
+Given a directory, this script scrapes lyrics from Genius.com and creates a .txt file containing the lyrics. More info can be found in comments in the [Python file](subtitle_finder.py)
 
 Step 1:
 
