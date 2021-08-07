@@ -22,4 +22,4 @@ All being well, the directory should now contain a bunch of .txt files which hav
 
 NOTE:
 
-This is made to work with the way that I store my MP3s so if your way of organising your music is different, this will probably run into a lot of snags. It doesn't cope with special characters, for instance, and relies on your MP3 files having their properties (artist, album_artist, title) acurately filled in. It can be improved in a lot of ways, but works okay for me for now!
+This is made to work with the way that I store my MP3s so if your way of organising your music is different, this will probably run into a lot of snags. It doesn't cope with special characters, for instance, and relies on your MP3 files having their properties (artist, album_artist, title) accurately filled in. It can be improved in a lot of ways, but works okay for me for now XD
