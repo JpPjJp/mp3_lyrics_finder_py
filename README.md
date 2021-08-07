@@ -5,19 +5,19 @@ Step 1:
 
 Copy the path to the directory which holds the mp3 files:
 
-![](https://images/copy_and_paste_dir.png)
+![](images/copy_and_paste_dir.png)
 
 Step 2:
 
 Run the script in the command line and paste in the copied path
 
-![](https://images/Cmd.png)
+![](images/Cmd.png)
 
 Step 3:
 
 All being well, the directory should now contain a bunch of .txt files which have names corresponding to each .mp3. They should contain the correct lyrics, too!
 
-![](https://images/after_success.png)
+![](images/after_success.png)
 
 
 NOTE:
